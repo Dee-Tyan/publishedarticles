@@ -1,7 +1,7 @@
 # Published Articles
 Collation of published articles
 
-## Social Media
+## Social Media Marketing
 
 1. https://trypico.com/blog/industry/linktree-alternatives
 2. https://medium.com/the-youtube-playbook/how-to-develop-a-youtube-content-strategy-fbb16f2d69b5
