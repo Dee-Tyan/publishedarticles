@@ -5,9 +5,10 @@ Collation of published articles
 
 1. https://trypico.com/blog/industry/linktree-alternatives
 2. https://medium.com/the-youtube-playbook/how-to-develop-a-youtube-content-strategy-fbb16f2d69b5
-3. https://trypico.com/blog/industry/how-to-get-more-followers-on-tiktok
+3. https://trypico.com/blog/industry/how-to-monetize-instagram
 4. https://trypico.com/blog/industry/trending-reels-songs
 5. https://trypico.com/blog/product/trending-reels-songs-august
+6. https://trypico.com/blog/industry/how-to-get-more-followers-on-tiktok
 
 ## Software As A Service (SAAS)
 
