@@ -23,6 +23,7 @@ Collation of published articles
 9. https://news.triofox.com/2021/09/17/a-secure-enterprise-cloud-sharing-solution-for-electrical-construction-companies/
 10. https://news.triofox.com/2021/09/01/enhance-end-user-access-to-amazon-aws-s3-with-mobile-remote-file-access/
 11. https://news.triofox.com/2021/08/30/cloud-migration-how-to-have-better-vpn-performance-after-moving-to-aws-ec2/
+12. https://resources.continuumcloud.com/blogs/nonprofit-software
 
 ## Platform As A Service (PAAS)
 
