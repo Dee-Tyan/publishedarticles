@@ -28,6 +28,7 @@ Collation of published articles
 4. https://trypico.com/blog/industry/trending-reels-songs
 5. https://trypico.com/blog/product/trending-reels-songs-august
 6. https://trypico.com/blog/industry/how-to-get-more-followers-on-tiktok
+7. https://trypico.com/blog/industry/tiktok-creator-fund
 
 
 
