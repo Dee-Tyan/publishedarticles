@@ -1,6 +1,10 @@
 # Published Articles
 Collation of published articles
 
+## Software Engineering
+
+1. https://deetyan.hashnode.dev/best-practices-for-building-and-consuming-web-based-apis
+
 ## Software As A Service (SAAS)
 
 1. https://resources.continuumcloud.com/blogs/what-is-workforce-management
