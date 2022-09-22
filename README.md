@@ -19,6 +19,7 @@ Collation of published articles
 10. https://news.triofox.com/2021/09/01/enhance-end-user-access-to-amazon-aws-s3-with-mobile-remote-file-access/
 11. https://news.triofox.com/2021/08/30/cloud-migration-how-to-have-better-vpn-performance-after-moving-to-aws-ec2/
 12. https://resources.continuumcloud.com/blogs/nonprofit-software
+13. https://resources.continuumcloud.com/blogs/hipaa-privacy
 
 ## Platform As A Service (PAAS)
 
@@ -33,6 +34,8 @@ Collation of published articles
 5. https://trypico.com/blog/product/trending-reels-songs-august
 6. https://trypico.com/blog/industry/how-to-get-more-followers-on-tiktok
 7. https://trypico.com/blog/industry/tiktok-creator-fund
+8. https://trypico.com/blog/industry/how-to-find-trending-sounds-on-tiktok
+9. https://trypico.com/blog/industry/pinterest-creator-fund
 
 
 
