@@ -23,7 +23,7 @@ Collation of published articles
 
 ## Platform As A Service (PAAS)
 
-1. https://www.opsera.io/learn/the-no-code-approach-to-jenkins-pipelines
+1. https://www.opsera.io/blog/the-no-code-approach-to-jenkins-pipelines
 
 ## Social Media Marketing
 
