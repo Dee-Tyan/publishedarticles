@@ -36,6 +36,15 @@ Collation of published articles
 7. https://trypico.com/blog/industry/tiktok-creator-fund
 8. https://trypico.com/blog/industry/how-to-find-trending-sounds-on-tiktok
 9. https://trypico.com/blog/industry/pinterest-creator-fund
+10. https://trypico.com/blog/industry/trending-reels-songs-december 
+11. https://trypico.com/blog/industry/tiktok-email
+12. https://trypico.com/blog/industry/how-to-get-verified-on-tiktok
+13. https://trypico.com/blog/industry/youtube-challenges
+14. https://trypico.com/blog/industry/trending-tiktok-sounds-november
+15. https://trypico.com/blog/instagram-reels-algorithm
+16. https://trypico.com/blog/industry/tik-tok-challenges
+17. https://trypico.com/blog/industry/trending-tiktok-sounds
+
 
 
 
