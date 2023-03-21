@@ -24,6 +24,7 @@ Collation of published articles
 ## Platform As A Service (PAAS)
 
 1. https://www.opsera.io/blog/the-no-code-approach-to-jenkins-pipelines
+2. https://tailscale.com/learn/secure-access-service-edge/
 
 ## Social Media Marketing
 
