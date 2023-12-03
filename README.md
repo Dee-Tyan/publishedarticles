@@ -4,6 +4,8 @@ Collation of published articles
 ## Software Engineering
 
 1. https://deetyan.hashnode.dev/best-practices-for-building-and-consuming-web-based-apis
+2. https://semaphoreci.com/blog/developers-soft-skills
+   
 
 ## Software As A Service (SAAS)
 
